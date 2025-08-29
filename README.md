@@ -1,13 +1,8 @@
 - 👋 Hi, I’m @canemreayaz
-- 👀 I’m interested in Machine Learning and .net ...
-- 🌱 I’m currently learning Python Librarys,Machine Learning, Deep Learning, Natural Language Processing and I create projects with C#
-  ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Machine Learning, AI, and .NET desktop applications
+- 🌱 I’m currently learning Python libraries, ML, Deep Learning, NLP, and creating projects with C#
+- 💞️ I’m looking to collaborate on AI & desktop software projects
+- 📫 How to reach me: [emreayaz.410@gmail.com] 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy building practical AI and software solutions
 
-<!---
-canemreayaz/canemreayaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
